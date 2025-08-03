@@ -20,9 +20,6 @@ Este projeto implementa uma **exchange descentralizada (DEX)** simples na testne
 
 
 ## 🧱 Arquitetura
-
-```
-
 .
 ├── contracts/
 │   ├── TokenA.sol
@@ -40,8 +37,6 @@ Este projeto implementa uma **exchange descentralizada (DEX)** simples na testne
 ├── package.json
 └── README.md
 
-````
-
 ## ⚙️ Como rodar localmente
 
 ### 1. Instale dependências
@@ -58,8 +53,6 @@ Crie um arquivo `.env` com:
 PRIVATE_KEY=chave_privada_da_wallet
 ALCHEMY_API_URL=https://eth-sepolia.g.alchemy.com/v2/SEU_TOKEN
 ```
-
-> **Importante:** nunca commit sua chave privada!
 
 ### 3. Compile contratos
 
