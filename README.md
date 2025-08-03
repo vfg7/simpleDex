@@ -4,8 +4,6 @@
 
 Este projeto implementa uma **exchange descentralizada (DEX)** simples na testnet **Sepolia**, permitindo a troca entre dois tokens ERC-20 com funcionalidades básicas de liquidez, swap e interface modularizada.
 
----
-
 ## 🚀 Funcionalidades
 
 - ✅ Criação de dois tokens ERC-20 (TokenA e TokenB)
@@ -20,6 +18,7 @@ Este projeto implementa uma **exchange descentralizada (DEX)** simples na testne
 
 
 ## 🧱 Arquitetura
+---
 .
 ├── contracts/
 │   ├── TokenA.sol
@@ -36,6 +35,7 @@ Este projeto implementa uma **exchange descentralizada (DEX)** simples na testne
 ├── hardhat.config.js
 ├── package.json
 └── README.md
+---
 
 ## ⚙️ Como rodar localmente
 
