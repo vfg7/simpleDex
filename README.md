@@ -85,6 +85,7 @@ npx hardhat coverage
 * [OpenZeppelin Contracts v5](https://docs.openzeppelin.com/contracts/5.x/)
 * [Alchemy Sepolia](https://alchemy.com/)
 * [Ethers.js](https://docs.ethers.org)
+* [Node.js] (https://nodejs.org/pt)
 
 
 ## Licença MIT
