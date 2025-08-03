@@ -1,9 +1,7 @@
 
-```markdown
 # SimpleDEX - DEX Descentralizada com ERC-20
 
 Este projeto implementa uma exchange descentralizada (DEX) simples na testnet Sepolia, permitindo a troca entre dois tokens ERC-20 com funcionalidades básicas de liquidez, swap e interface modularizada.
-````
 
 ## Funcionalidades
 
