@@ -7,18 +7,18 @@ Este projeto implementa uma exchange descentralizada (DEX) simples na testnet Se
 
 ## Funcionalidades
 
-- ✅ Criação de dois tokens ERC-20 (TokenA e TokenB)
-- ✅ Contrato `SimpleDEX` para:
+-  Criação de dois tokens ERC-20 (TokenA e TokenB)
+-  Contrato `SimpleDEX` para:
   - Adicionar e remover liquidez
   - Realizar trocas A ↔ B com fórmula de produto constante
   - Consultar preços e saldos via interface pública
-- ✅ Interface `IDex` com métodos `transferTo`, `transferFrom`, `getBalance`
-- ✅ Testes completos com Hardhat
-- ✅ Deploy automatizado via script
-- ✅ Integração com **Alchemy Sepolia** para testes reais
+-  Interface `IDex` com métodos `transferTo`, `transferFrom`, `getBalance`
+-  Testes completos com Hardhat
+-  Deploy automatizado via script
+-  Integração com **Alchemy Sepolia** para testes reais
 
 
-## 🧱 Arquitetura
+## Arquitetura
 ```
 .
 ├── contracts/
@@ -39,7 +39,7 @@ Este projeto implementa uma exchange descentralizada (DEX) simples na testnet Se
 ---
 ````
 
-## ⚙️ Como rodar localmente
+## Como rodar localmente
 
 ### 1. Instale dependências
 
@@ -80,7 +80,7 @@ npx hardhat run scripts/test_contract.js --network sepolia
 npx hardhat coverage
 ```
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 * [Solidity ^0.8.20](https://docs.soliditylang.org)
 * [Hardhat](https://hardhat.org/)
@@ -89,5 +89,5 @@ npx hardhat coverage
 * [Ethers.js](https://docs.ethers.org)
 
 
-## 📄 Licença MIT
+## Licença MIT
 
